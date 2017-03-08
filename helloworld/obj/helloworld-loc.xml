@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>E:\Ada-GNAT\myprojects\consume\src\consume.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 33" >
+      <vfs_project />
+      <vfs_file>E:\Ada-GNAT\myprojects\consume\src\consume.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 53" >
+      <vfs_project />
+      <vfs_file>E:\Ada-GNAT\myprojects\consume\src\consume.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 5" >
+      <vfs_project />
+      <vfs_file>E:\Ada-GNAT\myprojects\consume\src\consume.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4" >
+      <vfs_project />
+      <vfs_file>E:\Ada-GNAT\myprojects\consume\src\consume.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 21" >
+      <vfs_project />
+      <vfs_file>E:\Ada-GNAT\myprojects\consume\src\consume.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project />
+      <vfs_file>E:\Ada-GNAT\myprojects\consume\src\consume.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>E:\Ada-GNAT\myprojects\helloworld\src\helloworld.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

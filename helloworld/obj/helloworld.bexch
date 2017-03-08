@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__helloworld.o
+[PROJECT FILES]
+E:\Ada-GNAT\myprojects\helloworld.gpr
+20160822093828
+[BOUND OBJECT FILES]
+E:\Ada-GNAT\myprojects\helloworld\obj\helloworld.o
+[GENERATED SOURCE FILES]
+b__helloworld.ads
+b__helloworld.adb
+b__helloworld.ali
+[RESULTING OPTIONS]
+-LE:\Ada-GNAT\myprojects\helloworld\obj\
+-LE:\Ada-GNAT\myprojects\helloworld\obj\
+-LE:/ada-gnat/lib/gcc/i686-pc-mingw32/4.9.3/adalib/
+-static
+-static-libgcc
+E:/ada-gnat/lib/gcc/i686-pc-mingw32/4.9.3/adalib/libgnat.a
+-Wl,--stack=0x2000000
